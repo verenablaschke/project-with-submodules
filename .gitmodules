@@ -1,0 +1,3 @@
+[submodule "submodule-from-root"]
+	path = submodule-from-root
+	url = https://github.com/verenablaschke/submodule-from-root
